@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Praktikum_PBO {
-}
